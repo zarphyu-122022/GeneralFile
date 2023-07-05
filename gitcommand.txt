@@ -1,0 +1,8 @@
+First --> Create Pepo in GitHub Account 
+Git Command 
+-git init
+-git add (file)
+-git commit -m "first command"
+-git branch -M main
+-git remote add origin (Repo Link copy)
+-git push -u origin main
